@@ -11,4 +11,4 @@
 - iOS: Swift
 - Android/iOS: Flutter
 - Desktop: Electron / .NET
-- Backend Services: Java + Python + Go
+- Backend Services: Java + Python + Go + C++
