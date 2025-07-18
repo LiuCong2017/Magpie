@@ -1,5 +1,5 @@
 # Magpie
-- NSFW Dating App
+- Social App
 - Platform Support: Web, Mini-Programs, Android/iOS, Desktop
 - Inspired by Tinder, Bumble
 
