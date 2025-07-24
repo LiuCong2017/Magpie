@@ -5,7 +5,7 @@
 
 ---
 ## Tech
-- Web: Web Client + Management Site
+- Web: Web Client + Management Site (Vue, Node.js, Nuxt, TypeScript)
 - Mini-Programs: UniApp
 - Android: Kotlin & C++
 - iOS: Swift
