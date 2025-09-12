@@ -5,11 +5,12 @@
 ---
 ## Features
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
-- **Multi-Platform Support**
-
+  
+**Multi-Platform Support**
 - **Desktop:** Windows, macOS, Linux  
 - **Mobile:** iOS, Android  
 - **Web:** No installation required — accessible directly via browser
+  
 ---
 ## Tech
 - Web: Web Client + Management Site (Vue, Node.js, Nuxt, TypeScript)
