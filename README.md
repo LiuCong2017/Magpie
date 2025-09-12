@@ -1,10 +1,11 @@
 # Magpie
 - Social App (Finding people nearby and expand your social network)
-- Platform Support: Web, Mini-Programs, Android/iOS, Desktop
 - Inspired by Tinder, Bumble
 ---
 ## Features
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
+- End-to-end encrypted
+- Self-host
   
 **Multi-Platform Support**
 - **Desktop:** Windows, macOS, Linux  
