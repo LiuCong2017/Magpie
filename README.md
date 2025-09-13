@@ -4,7 +4,7 @@
 ---
 ## Features
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
-- End-to-end encrypted
+- End-to-end encrypted (Signal Protocol)
 - Self-host
   
 **Multi-Platform Support**
