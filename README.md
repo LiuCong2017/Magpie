@@ -8,7 +8,7 @@
 - 1:1 chat, Group chat
 - Delivery guarantee
 - Offline storage
-- Online/Read Presence
+- Online/Read/Typing... Presence
 
 #### Key Features
 - End-to-end encrypted (Signal Protocol)
