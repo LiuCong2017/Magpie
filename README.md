@@ -3,9 +3,19 @@
 - Inspired by Tinder, Bumble
 ---
 ## Features
-- Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
+
+#### Fundamental Features
+- 1:1 chat, Group chat
+- Delivery guarantee
+- Offline storage
+- Online/Read Presence
+
+#### Key Features
 - End-to-end encrypted (Signal Protocol)
 - Self-host
+
+#### Add-ons
+- Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
   
 **Multi-Platform Support**
 - **Desktop:** Windows, macOS, Linux  
