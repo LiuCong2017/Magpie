@@ -4,6 +4,8 @@
 ---
 ## Features
 
+#### Just for Sharing and Communication together
+
 #### Fundamental Features
 - 1:1 chat, Group chat
 - Delivery guarantee
