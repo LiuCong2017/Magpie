@@ -1,6 +1,6 @@
 # Magpie
 - Social App (Finding people nearby and expand your social network)
-- Inspired by Tinder, Bumble, Nextdoor
+- Inspired by Iris Dating, Tinder, Bumble, Nextdoor
 ---
 ## Features
 
