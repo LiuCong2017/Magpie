@@ -16,6 +16,7 @@
 
 #### Add-ons
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
+- Secondhand market
   
 **Multi-Platform Support**
 - **Desktop:** Windows, macOS, Linux  
