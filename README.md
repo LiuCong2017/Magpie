@@ -1,6 +1,6 @@
 # Magpie
 - Social App (Finding people nearby and expand your social network)
-- Inspired by Iris Dating, Tinder, Bumble, Nextdoor
+- Inspired by Iris Dating, Tinder, Bumble, Nextdoor, Bluesky, Mastodon
 ---
 ## Features
 
@@ -12,7 +12,7 @@
 
 #### Key Features
 - End-to-end encrypted (Signal Protocol)
-- Self-host (Also hosting provider if not On-premise, so decentralized support, and backing up message history and permanently storing it anywhere you choose, allowing recovery at any tim)
+- Self-host (Also hosting provider if not On-premise unless connect to each other, so decentralized support, and backing up message history and permanently storing it anywhere you choose, allowing recovery at any time)
 
 #### Add-ons
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
