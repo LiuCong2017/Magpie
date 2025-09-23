@@ -12,7 +12,7 @@
 
 #### Key Features
 - End-to-end encrypted (Signal Protocol)
-- Self-host
+- Self-host (Supports backing up message history and permanently storing it anywhere you choose, allowing recovery at any tim)
 
 #### Add-ons
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
