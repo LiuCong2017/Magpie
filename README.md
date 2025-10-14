@@ -15,6 +15,7 @@
 #### Key Features
 - End-to-end encrypted (Signal Protocol)
 - Self-host (Also hosting provider if not On-premise unless connect to each other, so decentralized support, and backing up message history and permanently storing it anywhere you choose, allowing recovery at any time)
+- Tags, sorting
 
 #### Add-ons
 - Implement stringent security measures and encryption to prevent data breaches, ensuring adherence to privacy compliance standards
